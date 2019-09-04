@@ -4,7 +4,7 @@ import math
 import random
 
 class Subtopics():
-    def __init__(self, subtopics, freq):
+    def __init__(self, q_1, q_2, q_3):
         self.q_1 = q_1
         self.q_2 = q_2
         self.q_3 = q_3
